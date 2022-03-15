@@ -1,0 +1,1 @@
+This project is for understanding how regression model works.
