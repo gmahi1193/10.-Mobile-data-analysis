@@ -1,1 +1,1 @@
-This project is for understanding how regression model works.
+This project is for understanding EDA (Exploratory data analysis)
